@@ -1,0 +1,38 @@
+
+[
+  {
+    "id": "n001",
+    "title": "KBN University Awarded $5M Grant for AI Ethics Research",
+    "date": "2024-09-01T10:00:00Z",
+    "summary": "The grant will fund the new Center for Ethical AI, led by Dr. Evelyn Reed, to explore the societal impact of artificial intelligence.",
+    "imageUrl": "https://picsum.photos/seed/n001/800/600"
+  },
+  {
+    "id": "n002",
+    "title": "Annual 'Innovate KBN' Competition Winners Announced",
+    "date": "2024-08-28T15:30:00Z",
+    "summary": "A team of engineering students won first prize for their low-cost water purification system designed for developing nations.",
+    "imageUrl": "https://picsum.photos/seed/n002/800/600"
+  },
+  {
+    "id": "n003",
+    "title": "Physics Department Observes New Exoplanet",
+    "date": "2024-08-25T11:00:00Z",
+    "summary": "Using the university's new observatory, Dr. Sofia Rossi and her team have confirmed the existence of a new Earth-like planet.",
+    "imageUrl": "https://picsum.photos/seed/n003/800/600"
+  },
+  {
+    "id": "n004",
+    "title": "Welcome Week 2024: A Resounding Success",
+    "date": "2024-08-22T09:00:00Z",
+    "summary": "Over 2,000 new students joined the KBN family this fall, participating in a week of activities, workshops, and community-building events.",
+    "imageUrl": "https://picsum.photos/seed/n004/800/600"
+  },
+  {
+    "id": "n005",
+    "title": "Business School Launches New Sustainability Program",
+    "date": "2024-08-19T14:00:00Z",
+    "summary": "The new MBA concentration in Sustainable Business, championed by Dr. Marcus Thorne, will prepare leaders for a green economy.",
+    "imageUrl": "https://picsum.photos/seed/n005/800/600"
+  }
+]

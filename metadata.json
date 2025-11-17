@@ -1,0 +1,5 @@
+{
+  "name": "KBN University - Modern University Website",
+  "description": "A modern, responsive, and accessible university website built with React and Tailwind CSS. It features faculty pages, admissions, course catalogs, and is designed to be CMS-ready.",
+  "requestFramePermissions": []
+}

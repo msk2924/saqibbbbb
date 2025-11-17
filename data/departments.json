@@ -1,0 +1,21 @@
+
+[
+  {
+    "id": "cs",
+    "name": "Computer Science",
+    "description": "Exploring the frontiers of computing, from artificial intelligence to quantum computing.",
+    "headId": "f001"
+  },
+  {
+    "id": "phy",
+    "name": "Physics",
+    "description": "Unraveling the fundamental principles of the universe, from the smallest particles to the largest galaxies.",
+    "headId": "f003"
+  },
+  {
+    "id": "bus",
+    "name": "Business Administration",
+    "description": "Shaping the next generation of business leaders with a focus on innovation and ethical practices.",
+    "headId": "f004"
+  }
+]

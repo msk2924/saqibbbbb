@@ -1,0 +1,99 @@
+
+[
+  {
+    "id": "f001",
+    "name": "Dr. Evelyn Reed",
+    "title": "Professor & Chair of Computer Science",
+    "department": "Computer Science",
+    "email": "e.reed@kbn-univ.edu",
+    "phone": "+1-123-456-7890",
+    "office": " Turing Hall, Room 314",
+    "office_hours": "Mon, Wed 10am-12pm",
+    "bio": "Dr. Reed is a leading researcher in the field of artificial intelligence and machine learning. Her work focuses on developing ethical AI systems and has been published in numerous top-tier journals.",
+    "research_areas": ["Ethical AI", "Machine Learning", "Natural Language Processing"],
+    "publications": [
+      { "title": "The Ethics of Autonomous Systems", "year": 2023, "link": "/pubs/paper1.pdf" },
+      { "title": "Advancements in Neural Networks", "year": 2021, "link": "/pubs/paper2.pdf" }
+    ],
+    "photo": "https://picsum.photos/seed/f001/400/400",
+    "social": {
+      "linkedin": "#",
+      "orcid": "#",
+      "google_scholar": "#"
+    }
+  },
+  {
+    "id": "f002",
+    "name": "Dr. Benjamin Carter",
+    "title": "Associate Professor of Computer Science",
+    "department": "Computer Science",
+    "email": "b.carter@kbn-univ.edu",
+    "phone": "+1-123-456-7891",
+    "office": "Turing Hall, Room 208",
+    "office_hours": "Tue, Thu 1pm-3pm",
+    "bio": "Dr. Carter's research interests lie in cybersecurity and distributed systems. He is passionate about teaching students how to build secure and resilient software.",
+    "research_areas": ["Cybersecurity", "Distributed Systems", "Blockchain"],
+    "publications": [
+      { "title": "Decentralized Identity Management", "year": 2022, "link": "/pubs/paper3.pdf" }
+    ],
+    "photo": "https://picsum.photos/seed/f002/400/400",
+    "social": {
+      "linkedin": "#"
+    }
+  },
+  {
+    "id": "f003",
+    "name": "Dr. Olivia Chen",
+    "title": "Professor of Physics",
+    "department": "Physics",
+    "email": "o.chen@kbn-univ.edu",
+    "phone": "+1-123-456-7892",
+    "office": "Newton Labs, Room 101",
+    "office_hours": "By appointment",
+    "bio": "A theoretical physicist, Dr. Chen's work on quantum entanglement has opened new possibilities for quantum computing. She is a recipient of the prestigious Maxwell Prize.",
+    "research_areas": ["Quantum Mechanics", "String Theory", "Cosmology"],
+    "publications": [
+      { "title": "Entanglement in Multi-Particle Systems", "year": 2023, "link": "/pubs/paper4.pdf" }
+    ],
+    "photo": "https://picsum.photos/seed/f003/400/400",
+    "social": {
+      "orcid": "#"
+    }
+  },
+  {
+    "id": "f004",
+    "name": "Dr. Marcus Thorne",
+    "title": "Professor of Business",
+    "department": "Business Administration",
+    "email": "m.thorne@kbn-univ.edu",
+    "phone": "+1-123-456-7893",
+    "office": "Commerce Tower, Suite 500",
+    "office_hours": "Mon 2pm-4pm",
+    "bio": "With 20 years of experience in international business, Dr. Thorne brings a wealth of practical knowledge to his research on sustainable business models and corporate governance.",
+    "research_areas": ["Sustainable Business", "Corporate Strategy", "International Finance"],
+    "publications": [
+      { "title": "The Circular Economy in Practice", "year": 2022, "link": "/pubs/paper5.pdf" }
+    ],
+    "photo": "https://picsum.photos/seed/f004/400/400",
+    "social": {
+      "linkedin": "#"
+    }
+  },
+  {
+    "id": "f005",
+    "name": "Dr. Sofia Rossi",
+    "title": "Assistant Professor of Physics",
+    "department": "Physics",
+    "email": "s.rossi@kbn-univ.edu",
+    "phone": "+1-123-456-7894",
+    "office": "Newton Labs, Room 212",
+    "office_hours": "Wed, Fri 11am-1pm",
+    "bio": "Dr. Rossi is an astrophysicist specializing in exoplanet detection and characterization. She is part of the team that discovered the Kepler-186f exoplanet.",
+    "research_areas": ["Astrophysics", "Exoplanets", "Observational Astronomy"],
+    "publications": [],
+    "photo": "https://picsum.photos/seed/f005/400/400",
+    "social": {
+      "google_scholar": "#"
+    }
+  }
+]

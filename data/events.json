@@ -1,0 +1,45 @@
+
+[
+  {
+    "id": "e001",
+    "title": "Fall Career Fair 2024",
+    "date": "2024-10-15T10:00:00Z",
+    "location": "Grand Ballroom, Student Union",
+    "description": "Connect with over 100 top employers from various industries. Open to all students and alumni."
+  },
+  {
+    "id": "e002",
+    "title": "Guest Lecture: The Future of Quantum Computing",
+    "date": "2024-10-22T18:00:00Z",
+    "location": "Newton Labs, Auditorium 1",
+    "description": "A special lecture by Nobel laureate Dr. Anton Zeilinger, hosted by the Physics Department."
+  },
+  {
+    "id": "e003",
+    "title": "Homecoming Weekend",
+    "date": "2024-11-01T12:00:00Z",
+    "location": "Campus-wide",
+    "description": "Join us for a weekend of celebration, alumni reunions, and the annual homecoming football game."
+  },
+  {
+    "id": "e004",
+    "title": "Cybersecurity Hackathon",
+    "date": "2024-11-09T09:00:00Z",
+    "location": "Turing Hall, Labs 1-5",
+    "description": "A 24-hour coding competition focused on solving real-world cybersecurity challenges. Prizes and internships available."
+  },
+  {
+    "id": "e005",
+    "title": "Winter Art Exhibit Opening Night",
+    "date": "2024-11-15T19:00:00Z",
+    "location": "Fine Arts Gallery",
+    "description": "Featuring works from our talented students and faculty in painting, sculpture, and digital media."
+  },
+  {
+    "id": "e006",
+    "title": "Finals Week Stress Relief: Therapy Dogs",
+    "date": "2024-12-10T11:00:00Z",
+    "location": "Library Lawn",
+    "description": "Take a break from studying and de-stress with some furry friends from the local therapy dog organization."
+  }
+]
